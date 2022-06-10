@@ -1,0 +1,8 @@
+Sebelum melakukan penginstalan laravel, Pastikan sudah menginstall beberapa applikasi : Applikasi xampp dan Composer
+Kemudian masuk ke command promp
+Selanjutnya masuk ke terminal, buka file xampp/htdocs. Masukkan perintah pada terminal untuk masuk ke htdocs cd C:\xampp\htdocs (sesuaikan file folder xampp anda)
+Setelah direktori berganti, gunakan perintah berikut : composer create-project laravel/laravel:^8.0 pemrogramanintegratif (sesuaikan nama project anda)
+Jika sudah selesai menginstall, kemudian cek apakah file project yang barusan dibuat apakah sudah ada 
+Jika folder sudah ada, selanjutnya terminal menggunakan perintah cd (nama project anda awal membuat tadi)
+Jika muncul tulisan Starting Laravel development server pada Terminal, selanjutnya membuka link yang telah disediakan oleh Laravel. alamat server, 127.0.0.1:8000 kemudian buka browser
+Maka penginstallan laravel sudah siap digunakan
