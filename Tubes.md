@@ -41,7 +41,7 @@ Maka penginstallan laravel sudah siap digunakan
   ```
   php artisan db:seed
   ```
-  ![](Assets/02.png)
+
   
 • Edit file News.php, NewsController.php, web.php, serta file migration News seperti pada gambar dibawah
   ![](Assets/03.png)
