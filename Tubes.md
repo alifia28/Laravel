@@ -24,7 +24,6 @@ Maka penginstallan laravel sudah siap digunakan
   ```
   php artisan migrate
   ```
-  ![](Assets/01.png)
 
 • Buat koneksi  model  ke database  dengan membuat seeder dan controller untuk tabel Rss dan News, dengan perintah
   ```
@@ -41,7 +40,6 @@ Maka penginstallan laravel sudah siap digunakan
   ```
   php artisan db:seed
   ```
-  ![](Assets/02.png)
   
 • Edit file News.php, NewsController.php, web.php, serta file migration News seperti pada gambar dibawah
   ![](Assets/04.png)
